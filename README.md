@@ -10,3 +10,5 @@ Libraries used in this project:
 Before upload rename file 'covid-counter' to 'main.py'
 
 wiring is on the photo
+
+![](photo_esp32.PNG)
