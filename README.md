@@ -4,7 +4,7 @@ esp32 with oled screen shows total amount of covid cases in Poland
 
 Libraries used in this project:
 - ssd1306 https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py 
-- urrequests
+- urequests  https://micronote.tech/2020/06/Introduction-to-API-Calls-with-a-NodeMCU-and-MicroPython/
 
 
 Before upload rename file 'covid-counter' to 'main.py'
