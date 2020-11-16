@@ -12,7 +12,7 @@ Before upload rename file 'covid-counter' to 'main.py'
 wiring is on the photo
 
 
-LCD                           ESP32<br/>
+LCD     / ESP32<br/>
 LCD_scl ----> pin 22<br/>
 LCD_sda ----> pin 21<br/>
 VCC     ----> 3V3<br/>
