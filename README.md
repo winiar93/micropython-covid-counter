@@ -3,7 +3,7 @@ esp32 with oled screen shows total amount of covid cases in Poland
 
 
 Libraries used in this project:
-- ssd1306
+- ssd1306 https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py 
 - urrequests
 
 
